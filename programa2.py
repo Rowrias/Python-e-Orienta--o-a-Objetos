@@ -13,4 +13,3 @@ x = [1, 2, 3]
 y = [1, 2, 3]
 print(x == y) # verifica se o conteudo é igual
 print(x is y) # verifica se x e y são o msm objeto
-
